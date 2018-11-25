@@ -3,5 +3,6 @@ public class GitTest1 {
         System.out.println("Hello Git");
         System.out.println("Master");
         System.out.println("master修改");
+        System.out.println("dev3修改第一次");
     }
 }
