@@ -5,5 +5,6 @@ public class GitTest1 {
         System.out.println("master修改");
         System.out.println("master修改第二次");
         System.out.println("master修改第三次");
+        System.out.println("master修改第四次");
     }
 }
